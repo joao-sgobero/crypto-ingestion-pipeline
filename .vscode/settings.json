@@ -1,0 +1,15 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:poetry",
+    "python-envs.defaultPackageManager": "ms-python.python:poetry",
+    "cSpell.words": [
+        "Carregamento",
+        "Carregar",
+        "Extrair",
+        "moeda",
+        "realizado",
+        "resposta",
+        "sucesso",
+        "tinydb",
+        "Transformando"
+    ]
+}

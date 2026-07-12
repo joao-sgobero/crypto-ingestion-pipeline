@@ -1,0 +1,19 @@
+[project]
+name = "etl-bitcoin"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "João Henrique Sgobero",email = "joao.sgobero@gmail.com"}
+]
+requires-python = ">=3.12,<4.0"
+dependencies = [
+    "requests (>=2.34.2,<3.0.0)",
+    "tinydb (>=4.8.2,<5.0.0)",
+    "psycopg2 (>=2.9.12,<3.0.0)",
+    "python-dotenv (>=1.2.2,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
